@@ -1,6 +1,5 @@
 👋 Hi, I’m Santiago @santiluque12
 - 👀 I’m interested in sharing knowledge and connecting tech people!
-- 🌱 I’m currently learning about AI and deep learning
 - 💞️ I’m  founded a Healthtech, focus on transforming the patient experience
 - 📫 How to reach me by email santiago@bhealth.com.ar
 
